@@ -275,6 +275,6 @@ d = a.n1 + 1 -- d == 4
 ```
 
 ### `.cset`
-A CSET file is a structured collection of compilation options. It has `.cset` as a file extension.
+A CSET (Compile set) file is a structured collection of compilation options. It has `.cset` as a file extension.
 
 # *More* Modification would ocurr.
