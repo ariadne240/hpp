@@ -94,7 +94,7 @@ multiply :: Integer -> Integer -> Integer
 multiply = karatsuba
 ```
 
-####`nooverload`
+#### `nooverload`
 If we want a variable to be not overloaded, we can give a `nooverload` keyword in type declaration. There cannot be more than one nooverload implementation. Otherwise the compiler would give a compile error.
 ```haskell
 nooverload multiply :: Integer -> Integer -> Integer
