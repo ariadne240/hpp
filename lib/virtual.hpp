@@ -21,3 +21,6 @@ y = x + v
 -- It does have a direct dependency on x or v.
 -- It does not have a direct dependency on w.
 -- It has a dependency on w.
+
+-- Virtual Type
+
