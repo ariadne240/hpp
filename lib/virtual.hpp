@@ -38,6 +38,6 @@ L1 :: * -> *
 L1 a = Empty | Cons a (L1 a)
 data L2 a = Empty | Cons a (L2 a)
 
-virtual I :: #
-
+virtual Prop :: #
+type ~Neg = Neg -> Bot
 

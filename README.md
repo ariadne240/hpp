@@ -10,3 +10,7 @@ At least better than LaTeX
 Should infer something from a collection of theorems
 ## Dependency Check
 Easily check which variable is dependent on others
+## Easily Typechecked and Verified
+Easily Typechecked and proofchecked
+## Modularized
+Distinguishable code
