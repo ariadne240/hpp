@@ -1,4 +1,5 @@
-# New Mathematical Language
+# H++
+H++ is a New Mathematical Language being developed by Hieroglyph Organization.
 
 ## Computer Science
 ### Simple and Uniform Grammar
